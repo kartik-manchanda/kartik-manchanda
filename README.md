@@ -5,9 +5,9 @@
 I'm a 3rd year student pursuing btech in computer Science.
 I love making projects on Android and always keen to know more.
 
-Skills: java/kotlin/Android App Development/HTML/CSS
+Skills: java/kotlin/Android App Development/HTML/CSS/Flutter/dart
 
-- 🔭 I’m currently working on Instagram Clone App 
+- 🔭 I’m currently Learning Flutter. 
 - 👯 I’m looking to collaborate on Android Projects 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: kartikmanchanda1901@gmail.com 
