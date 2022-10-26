@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Karik Manchanda
+### Hi there 👋, my name is Kartik Manchanda
 #### Flutter Developer | Native Android Developer 
 ![Flutter Dev | Android Dev | DSC-KCCITM-Technical Coordinator(Android)](https://github.com/kartik-manchanda/kartik-manchanda/blob/master/banner.png)
 
@@ -22,6 +22,6 @@ Skills: java/kotlin/Android App Development/HTML/CSS/Flutter/dart
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/kartik-manchanda&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/kartik-manchanda)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/kartik-manchanda)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/kartik-manchanda)
+![Profile views](https://gpvc.arturio.dev/https://github.com/kartik-manchanda) -->
