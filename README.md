@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Karik Manchanda
-#### Android Developer | DSC-KCCITM-Technical Coordinator(Android)
-![Android Developer | DSC-KCCITM-Technical Coordinator(Android)](https://github.com/kartik-manchanda/kartik-manchanda/blob/master/banner.png)
+#### Flutter Developer | Native Android Developer 
+![Flutter Dev | Android Dev | DSC-KCCITM-Technical Coordinator(Android)](https://github.com/kartik-manchanda/kartik-manchanda/blob/master/banner.png)
 
-I'm a 3rd year student pursuing btech in computer Science.
 I love making projects on Android and always keen to know more.
 
 Skills: java/kotlin/Android App Development/HTML/CSS/Flutter/dart
